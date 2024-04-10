@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-zebra-bluetooth-printer --save`
+`$ npm install react-native-zebra-bt-printer --save`
 
 
 
