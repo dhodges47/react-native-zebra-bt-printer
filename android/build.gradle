@@ -33,6 +33,5 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation files('libs/ZSDK_ANDROID_API.jar')
 }
   
