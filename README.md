@@ -11,6 +11,8 @@ This is an alternative to /GeekyAnts/react-native-zebra-bluetooth-printer, which
 This package is not as feature rich but works for our purposes. Additional features could be added if necessary.
 There is no npm package.
 
+NOTE: THis is for Android. The IOS side is untested and may not work.
+
 ## Usage
 
 # AtechBluetoothModule
