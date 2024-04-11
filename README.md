@@ -2,9 +2,9 @@
 # react-native-zebra-bluetooth-printer
 
 ## Getting started
-
-`$ yarn add https://github.com/dhodges47/react-native-zebra-bt-printer
-
+```
+yarn add https://github.com/dhodges47/react-native-zebra-bt-printer
+```
 ## Acknowledgements
 
 This is an alternative to /GeekyAnts/react-native-zebra-bluetooth-printer, which wasn't working with our devices.
